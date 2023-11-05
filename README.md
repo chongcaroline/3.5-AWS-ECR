@@ -1,4 +1,4 @@
-# hello-node
+# Build hello-node image to Private ECR
 
 ## Command to build an image
 
